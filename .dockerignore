@@ -1,0 +1,17 @@
+**
+!src/
+!src/**
+!Directory.Build.props
+!LICENSE
+
+**/bin/
+**/obj/
+**/.DS_Store
+**/*.user
+**/*.suo
+.git/
+.github/
+.idea/
+.vs/
+.vscode/
+tests/
