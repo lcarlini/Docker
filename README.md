@@ -9,7 +9,7 @@ A compact, production-minded reference for containerizing ASP.NET Core services.
 Dockyard exposes runtime and request diagnostics that make it useful for testing
 container networking, reverse proxies, health checks, and deployment platforms.
 
-**Pages:** [Docker for .NET, explained](https://lcarlini.github.io/Docker/) — a short visual walkthrough of how this project is containerized.
+**Pages:** [What is Docker for .NET?](https://lcarlini.github.io/Docker/) — a short visual mental model, with Dockyard as the worked example.
 
 ## Why this project
 
